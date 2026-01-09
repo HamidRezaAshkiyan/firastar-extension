@@ -20,7 +20,7 @@
         "filemanager-webpack-plugin": "^2.0.5",
         "jest": "^26.4.2",
         "prettier": "^2.1.2",
-        "webpack": "^4.44.2",
+        "webpack": "^5.104.1",
         "webpack-cli": "^3.3.12",
         "webpack-dev-server": "^3.11.0"
     },
